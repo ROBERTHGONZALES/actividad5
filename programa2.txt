@@ -1,0 +1,3 @@
+Juan Perez, Matematicas: 85, Fisica: 90, Quimica: 78
+Maria Gomez, Matematicas: 92, Fisica: 88, Quimica: 95
+Carlos Sanchez, Matematicas: 70, Fisica: 75, Quimica: 80

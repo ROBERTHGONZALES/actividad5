@@ -1,0 +1,3 @@
+Juan Perez, 17, juan@example.com
+Maria Gomez, 22, maria@example.com
+Carlos Sanchez, 19, carlos@example.com

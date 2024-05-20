@@ -1,0 +1,3 @@
+Producto A, 190.0
+Producto B, 456.0
+Producto C, 285.0
